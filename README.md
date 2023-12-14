@@ -3,7 +3,8 @@
 
 https://github.com/yanliang-wang/path_api_display
 （这个我一定要尽全力开发出来）
-
+https://blog.csdn.net/m0_67254672/article/details/132293004  
+这个我必须要要好好看看
 rviz gazebo qt界面  学习春阳哥的界面开发工作。-----有了初步进展了
 但是还得加油呀
 
