@@ -1,0 +1,9 @@
+<library path="lib/libprogressBar_panel">
+  <class name="progressBar_panel/ProgressBarPanel"
+         type="progressBar_panel::ProgressBar_Panel"
+         base_class_type="rviz::Panel">
+    <description>
+      panel progressBar information
+    </description>
+  </class>
+</library>

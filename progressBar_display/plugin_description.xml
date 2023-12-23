@@ -1,0 +1,9 @@
+<library path="lib/libprogressBar_display">
+  <class name="progressBar_plugin/ProgressBar"
+         type="progressBar_plugin::ProgressBar_Display"
+         base_class_type="rviz::Display">
+    <description>
+      display progressBar information
+    </description>
+  </class>
+</library>
