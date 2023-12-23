@@ -32,3 +32,10 @@ rviz gazebo qt界面  学习春阳哥的界面开发工作。-----有了初步�
 进展顺利，好好加油吧
 现在是学习c++最好的时候了
 ![2023-12-23 18-13-39 的屏幕截图](https://github.com/chan-yuu/ros-rviz-qt_ws/assets/129357834/c1dcaf86-52d0-43c7-938a-cdff8e5e10f2)
+
+
+给自己布置一个任务：
+一键启动和一键关闭
+输入roadid输入站点id（或者导入）
+
+显示cte和dhead和wheelangle
